@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\CompanyPDT507\\Index.cshtml",
+      "TargetPath": "Views\\CompanyPDT507\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15649,8 +15654,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\CompanyPDT507\\Create.cshtml",
+      "TargetPath": "Views\\CompanyPDT507\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\CompanyPDT507\\Delete.cshtml",
+      "TargetPath": "Views\\CompanyPDT507\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\CompanyPDT507\\Details.cshtml",
+      "TargetPath": "Views\\CompanyPDT507\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\CompanyPDT507\\Edit.cshtml",
+      "TargetPath": "Views\\CompanyPDT507\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],

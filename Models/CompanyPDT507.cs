@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace PhamDucThuan507.Models
+namespace MVCMovie.Models
 {
     [Table("CompanyPDT507")]
     public class CompanyPDT507
@@ -9,6 +9,5 @@ namespace PhamDucThuan507.Models
         [Key]
         public string CompanyID { get; set; }
         public string CompanyName { get; set; }
-
     }
 }
