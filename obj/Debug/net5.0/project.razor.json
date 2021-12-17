@@ -15649,8 +15649,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\PDT0507\\Index.cshtml",
+      "TargetPath": "Views\\PDT0507\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\PDT0507\\Create.cshtml",
+      "TargetPath": "Views\\PDT0507\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15664,6 +15674,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\PDT0507\\Edit.cshtml",
+      "TargetPath": "Views\\PDT0507\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\CompanyPDT507\\Delete.cshtml",
       "TargetPath": "Views\\CompanyPDT507\\Delete.cshtml",
       "FileKind": "mvc"
@@ -15674,8 +15689,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\PDT0507\\Details.cshtml",
+      "TargetPath": "Views\\PDT0507\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\CompanyPDT507\\Edit.cshtml",
       "TargetPath": "Views\\CompanyPDT507\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NETcore\\PhamDucThuan507\\Views\\PDT0507\\Delete.cshtml",
+      "TargetPath": "Views\\PDT0507\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],

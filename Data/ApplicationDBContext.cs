@@ -13,4 +13,6 @@ using MVCMovie.Models;
         }
 
         public DbSet<MVCMovie.Models.CompanyPDT507> CompanyPDT507 { get; set; }
+
+        public DbSet<MVCMovie.Models.PDT0507> PDT0507 { get; set; }
     }
